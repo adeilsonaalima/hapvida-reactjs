@@ -1,0 +1,22 @@
+html, body {
+	width: 100vw;
+	height: 100vh;
+	background-color: #485fc7;
+	user-select: none;
+}
+
+.Toastify__toast-icon {
+	filter: brightness(0)
+					saturate(100%)
+					invert(37%)
+					sepia(78%)
+					saturate(3678%)
+					hue-rotate(328deg)
+					brightness(101%)
+					contrast(101%);
+}
+
+.AddButton {
+	margin: 1rem;
+}
+
