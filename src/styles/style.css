@@ -1,8 +1,9 @@
 html, body {
 	width: 100vw;
 	height: 100vh;
-	background-color: #485fc7;
 	user-select: none;
+	overflow: auto;
+	background-color: #475fc9;
 }
 
 .Toastify__toast-icon {
@@ -19,4 +20,3 @@ html, body {
 .AddButton {
 	margin: 1rem;
 }
-

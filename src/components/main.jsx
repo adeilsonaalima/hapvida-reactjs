@@ -77,7 +77,7 @@ export default function Main() {
 				toast.clearWaitingQueue();
 			} else { 
 				const price = table[category][state][plan][cop][dentistry][age];
-				setCovering(cover[state][plan][dentistry]);
+				setCovering(cover[category][state][plan][dentistry]);
 				setList([...list, { 
 								age: age,
 								price: price }])
