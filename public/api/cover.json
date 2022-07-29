@@ -1,225 +1,143 @@
 {
-  "physical-person": {
-    "bahia": {
-      "outpatient": {
-        "withDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• observação de até 12h;",
-          "• pequenas cirurgias;",
-          "• urgência e emergência odontológica."
-        ],
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• observação de até 12h;",
-          "• pequenas cirurgias."
-        ]
-      },
-      "nursery": {
-        "withDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto coletivo mediante franquia;",
-          "• cirurgias de pequeno, médio e grande porte;",
-          "• odontologia completa."
-        ],
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto coletivo mediante franquia;",
-          "• cirurgias de pequeno, médio e grande porte."
-        ]
-      },
-      "apartment": {
-        "withDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto exclusivo mediante franquia;",
-          "• cirurgias de pequeno, médio e grande porte;",
-          "• odontologia completa."
-        ],
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto exclusivo mediante franquia;",
-          "• cirurgias de pequeno, médio e grande porte."
-        ]
-      }
+  "bahia": {
+    "outpatient": {
+      "withDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• observação de até 12h;",
+        "• pequenas cirurgias;",
+        "• urgência e emergência odontológica."
+      ],
+      "withoutDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• observação de até 12h;",
+        "• pequenas cirurgias."
+      ]
     },
-    "ceara": {
-      "outpatient": {
-        "withDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• observação de até 12h;",
-          "• pequenas cirurgias;",
-          "• urgência e emergência odontológica."
-        ],
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• observação de até 12h;",
-          "• pequenas cirurgias."
-        ]
-      },
-      "nursery": {
-        "withDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto coletivo;",
-          "• cirurgias de pequeno, médio e grande porte;",
-          "• odontologia completa."
-        ],
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto coletivo;",
-          "• cirurgias de pequeno, médio e grande porte."
-        ]
-      },
-      "apartment": {
-        "withDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto exclusivo;",
-          "• cirurgias de pequeno, médio e grande porte;",
-          "• odontologia completa."
-        ],
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto exclusivo;",
-          "• cirurgias de pequeno, médio e grande porte."
-        ]
-      }
+    "nursery": {
+      "withDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• internação com quarto coletivo mediante franquia;",
+        "• cirurgias de pequeno, médio e grande porte;",
+        "• odontologia completa."
+      ],
+      "withoutDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• internação com quarto coletivo mediante franquia;",
+        "• cirurgias de pequeno, médio e grande porte."
+      ]
     },
-    "goiania": {
-      "outpatient": {
-        "withDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• observação de até 12h;",
-          "• pequenas cirurgias;",
-          "• urgência e emergência odontológica."
-        ],
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• observação de até 12h;",
-          "• pequenas cirurgias."
-        ]
-      },
-      "nursery": {
-        "withDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto coletivo;",
-          "• cirurgias de pequeno, médio e grande porte;",
-          "• odontologia completa."
-        ],
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto coletivo;",
-          "• cirurgias de pequeno, médio e grande porte."
-        ]
-      },
-      "apartment": {
-        "withDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto exclusivo;",
-          "• cirurgias de pequeno, médio e grande porte;",
-          "• odontologia completa."
-        ],
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto exclusivo;",
-          "• cirurgias de pequeno, médio e grande porte."
-        ]
-      }
+    "apartment": {
+      "withDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• internação com quarto exclusivo mediante franquia;",
+        "• cirurgias de pequeno, médio e grande porte;",
+        "• odontologia completa."
+      ],
+      "withoutDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• internação com quarto exclusivo mediante franquia;",
+        "• cirurgias de pequeno, médio e grande porte."
+      ]
     }
   },
-  "legal-person": {
-    "bahia": {
-      "outpatient": {
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• observação de até 12h;",
-          "• pequenas cirurgias."
-        ]
-      },
-      "nursery": {
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto coletivo;",
-          "• cirurgias de pequeno, médio e grande porte."
-        ]
-      },
-      "apartment": {
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto exclusivo;",
-          "• cirurgias de pequeno, médio e grande porte."
-        ]
-      }
+  "ceara": {
+    "outpatient": {
+      "withDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• observação de até 12h;",
+        "• pequenas cirurgias;",
+        "• urgência e emergência odontológica."
+      ],
+      "withoutDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• observação de até 12h;",
+        "• pequenas cirurgias."
+      ]
     },
-    "ceara": {
-      "outpatient": {
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• observação de até 12h;",
-          "• pequenas cirurgias."
-        ]
-      },
-      "nursery": {
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto coletivo;",
-          "• cirurgias de pequeno, médio e grande porte."
-        ]
-      },
-      "apartment": {
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto exclusivo;",
-          "• cirurgias de pequeno, médio e grande porte."
-        ]
-      }
+    "nursery": {
+      "withDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• internação com quarto coletivo;",
+        "• cirurgias de pequeno, médio e grande porte;",
+        "• odontologia completa."
+      ],
+      "withoutDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• internação com quarto coletivo;",
+        "• cirurgias de pequeno, médio e grande porte."
+      ]
     },
-    "goiania": {
-      "outpatient": {
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• observação de até 12h;",
-          "• pequenas cirurgias."
-        ]
-      },
-      "nursery": {
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto coletivo;",
-          "• cirurgias de pequeno, médio e grande porte."
-        ]
-      },
-      "apartment": {
-        "withoutDentistry": [
-          "• urgências e emergências;",
-          "• consultas e exames em todas as especialidades;",
-          "• internação com quarto exclusivo;",
-          "• cirurgias de pequeno, médio e grande porte."
-        ]
-      }
+    "apartment": {
+      "withDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• internação com quarto exclusivo;",
+        "• cirurgias de pequeno, médio e grande porte;",
+        "• odontologia completa."
+      ],
+      "withoutDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• internação com quarto exclusivo;",
+        "• cirurgias de pequeno, médio e grande porte."
+      ]
     }
-  }
+  },
+  "goiania": {
+    "outpatient": {
+      "withDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• observação de até 12h;",
+        "• pequenas cirurgias;",
+        "• urgência e emergência odontológica."
+      ],
+      "withoutDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• observação de até 12h;",
+        "• pequenas cirurgias."
+      ]
+    },
+    "nursery": {
+      "withDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• internação com quarto coletivo;",
+        "• cirurgias de pequeno, médio e grande porte;",
+        "• odontologia completa."
+      ],
+      "withoutDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• internação com quarto coletivo;",
+        "• cirurgias de pequeno, médio e grande porte."
+      ]
+    },
+    "apartment": {
+      "withDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• internação com quarto exclusivo;",
+        "• cirurgias de pequeno, médio e grande porte;",
+        "• odontologia completa."
+      ],
+      "withoutDentistry": [
+        "• urgências e emergências;",
+        "• consultas e exames em todas as especialidades;",
+        "• internação com quarto exclusivo;",
+        "• cirurgias de pequeno, médio e grande porte."
+      ]
+    }
+  }	
 }

@@ -8,6 +8,6 @@ const root = createRoot(container);
 
 root.render(
   <StrictMode>
-    <Hapvida />
+    <Hapvida/>
   </StrictMode>
 );
