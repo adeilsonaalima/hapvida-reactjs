@@ -1,8 +1,11 @@
+// DEPENDENCIES
 import React, { Fragment } from 'react';
 import styled from 'styled-components';
+
+// ASSETS
 import logotipo from '../assets/images/logotipo-hapvida.png';
 
-
+// STYLED COMPONENTS
 const HeaderStyled = styled.header`
 	max-width: 25rem;
 	margin-left: auto;

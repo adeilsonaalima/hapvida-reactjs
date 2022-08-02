@@ -4,7 +4,6 @@ import ReactSelect from 'react-select';
 import styled from 'styled-components';
 import { useForm, Controller } from 'react-hook-form';
 import { ToastContainer, toast, Flip } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
 
 // ASSETS
 import add from '../assets/icons/add.svg';
@@ -12,6 +11,7 @@ import refresh from '../assets/icons/refresh.svg';
 
 // CSS
 import '../styles/checkbox.css';
+import 'react-toastify/dist/ReactToastify.css';
 
 // REACT-SELECT STYLES
 const mainColor = '#485fc7'
